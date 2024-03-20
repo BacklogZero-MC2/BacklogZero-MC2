@@ -1,7 +1,7 @@
 <img src="logo.png" width=165>
 
 # Backlog Zero
-Učenje na dlanu. Brzo dijeli, lako ući, beskrajno istražuj.
+Učenje na dlanu. Brzo dijeli, lako uči, beskrajno istražuj.
 
 ## O projektu
 Backlog Zero je projekt koji nastoji riješiti problem kaotičnosti i neorganiziranosti u studentskim grupama, gdje kvalitetni materijali često padaju u zaborav. Naša platforma pruža strukturu u organizaciji i pretraživanju materijala te koristi naprednu tehnologiju kao što su OCR obrada i AI preporuke kako bi korisnicima olakšala pristup i korištenje relevantnih informacija.
