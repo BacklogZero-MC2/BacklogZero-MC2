@@ -1,5 +1,3 @@
-<img src="logo.png" width=165>
-
 # Backlog Zero
 
 ## Table of Contents
